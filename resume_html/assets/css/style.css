@@ -1,0 +1,48 @@
+*
+{
+    box-sizing: border-box;
+}
+
+body{
+    margin:0px;
+    background: color #525252;
+
+}
+.main-section
+{
+    background-color: #f8dbff;
+    height: 50%;
+    width:20%;
+    position:absolute;
+    top: 0px;
+    left: 25%;
+    border-radius: 20px;
+    
+}
+header
+{
+    display: flex;
+    align-items: center;
+}
+#primary-name
+{
+    
+        font-family: "Zeyada", cursive;
+        font-weight: 400;
+        font-style: normal;
+      
+      
+
+
+}
+#primary-tag
+{
+    font-family: "Raleway",cursive;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-weight: 100px;
+    margin: 2px;
+    color: #b0a9b2;
+    font-size: 1em;
+
+}
